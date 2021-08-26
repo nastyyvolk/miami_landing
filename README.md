@@ -1,3 +1,5 @@
+# MIAMI landing
+
 Stack: HTML5, SASS 
 
 Fully responsive layout was made using media queries, CSS Grid and Flexbox (mobiles, tablets, laptops, large screens)
